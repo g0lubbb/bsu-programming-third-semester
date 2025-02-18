@@ -1,0 +1,32 @@
+<records>
+    <record>
+        <id>123456</id>
+        <name>Иванов</name>
+        <subject>Математика</subject>
+        <grade>5</grade>
+    </record>
+    <record>
+        <id>234567</id>
+        <name>Петров</name>
+        <subject>Физика</subject>
+        <grade>4</grade>
+    </record>
+    <record>
+        <id>345678</id>
+        <name>Сидоров</name>
+        <subject>Химия</subject>
+        <grade>5</grade>
+    </record>
+    <record>
+        <id>456789</id>
+        <name>Кузнецов</name>
+        <subject>Биология</subject>
+        <grade>3</grade>
+    </record>
+    <record>
+        <id>567890</id>
+        <name>Смирнова</name>
+        <subject>Литература</subject>
+        <grade>4</grade>
+    </record>
+</records>
